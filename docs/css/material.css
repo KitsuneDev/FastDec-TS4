@@ -1,0 +1,43 @@
+﻿body {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.center {
+  height: 200px; /*Set line-height to this value*/
+  width: 400px;
+  margin: 150px auto;
+    text-align: center;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+h2 {
+
+    display: block;
+    font-size: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+
+
+  white-space: nowrap ;
+
+
+
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+#server-status {
+    
+
+}
+.footer {
+     position: fixed;
+     bottom: 0;
+    text-align: center;
+}
