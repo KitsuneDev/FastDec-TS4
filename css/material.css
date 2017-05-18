@@ -8,6 +8,12 @@
   margin: 150px auto;
     text-align: center;
 }
+.code {
+  background-color: gray;
+  /*color: black;*/
+  border-radius: 5px;
+  
+}
 
 h1 {
   font-family: 'Raleway', sans-serif;
